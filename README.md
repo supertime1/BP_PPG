@@ -29,7 +29,7 @@ More specifically:
 
 <br />
 <br />
-![Notebook](https://github.com/supertime1/BP_PPG/blob/master/Images/Workflow%20Notebook.jpg?raw=true)
+ ![Notebook](https://github.com/supertime1/BP_PPG/blob/master/Images/Workflow%20Notebook.jpg?raw=true)
 <br />
 <br />
 
