@@ -28,8 +28,7 @@ More specifically:
    - use [**Attention.ipynb**](https://github.com/supertime1/BP_PPG/blob/master/Models/Attention_model.ipynb) to experiment with Attention model
 
 <br />
-<br />
- ![Notebook](https://github.com/supertime1/BP_PPG/blob/master/Images/Workflow%20Notebook.jpg?raw=true)
+<br />![Notebook](https://github.com/supertime1/BP_PPG/blob/master/Images/Workflow%20Notebook.jpg?raw=true)
 <br />
 <br />
 
