@@ -27,6 +27,6 @@ More specifically:
    - use [**BP_PPG_Class.ipynb**](https://github.com/supertime1/BP_PPG/blob/master/Models/BP_PPG_Class.ipynb) if LSTM without Attention is needed; 
    - use [**Attention.ipynb**](https://github.com/supertime1/BP_PPG/blob/master/Models/Attention_model.ipynb) to experiment with Attention model 
 <br />
-![Attention](https://github.com/supertime1/BP_PPG/blob/master/Images/Attention.jpg?raw=true)
+![Attention](https://github.com/supertime1/BP_PPG/blob/master/Images/Attention.jpg?raw=false)
 
 6. Use [**Model_Analysis_Vis.ipynb**](https://github.com/supertime1/BP_PPG/blob/master/Visualization/Model_Analysis_Vis.ipynb) to perform model evaluation and visualization
