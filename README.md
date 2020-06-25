@@ -1,12 +1,11 @@
 # BP_PPG
 This project is to develop a PPG-based blood pressure deep learning algorithm based on MIMIC-III WFDB
 
-The following workflow is show which corresponding notebook to use in each data pipeline step.
-
+The following workflow is show which corresponding notebook to use in each data pipeline step./
 ![Notebook](https://github.com/supertime1/BP_PPG/blob/master/Images/Workflow%20Notebook.jpg?raw=true)
 
 More specifically:
-1. Use **DataMiner.sh** to download the original [MIMIC-III WFDB matched subset] (https://archive.physionet.org/physiobank/database/mimic3wdb/matched/). You will need to download 2.4TB waveform data including ECG, PPG, ABP and many more. If you are interested in patients' information, you will also need to download [MIMIC-III database] (https://archive.physionet.org/physiobank/database/mimic3cdb/)
+1. Use **DataMiner.sh** to download the original [MIMIC-III WFDB matched subset](https://archive.physionet.org/physiobank/database/mimic3wdb/matched/). You will need to download 2.4TB waveform data including ECG, PPG, ABP and many more. If you are interested in patients' information, you will also need to download [MIMIC-III database](https://archive.physionet.org/physiobank/database/mimic3cdb/)
 
 2. Once data is downloaded, use **BP_Data_Clean.ipynb** to: 
   - extract the ABP and PPG data;
