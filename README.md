@@ -1,2 +1,4 @@
 # BP_PPG
-PPG-based blood pressure deep learning algorithm based on MIMIC-III WFDB
+This project is to develop a PPG-based blood pressure deep learning algorithm based on MIMIC-III WFDB
+
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
