@@ -15,7 +15,9 @@ More specifically:
    - extract the ABP and PPG data;
    - clean and process data
    - generate BP ground truth (systolic and diastolic blood pressure values)
-   - optional: generate Heart Rate; process data with keeping subject ID (helpful to extract patients' biometrics such as age and gender)
+   - optional: 
+     - generate Heart Rate; 
+     - process data with keeping subject ID (helpful to extract patients' biometrics such as age and gender)
   
 3. Optional: Use **Biometric_Info.ipynb** to extract patients' biometrics information (e.g. age and gender)
 
