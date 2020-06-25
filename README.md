@@ -1,7 +1,9 @@
 # BP_PPG
 This project is to develop a PPG-based blood pressure deep learning algorithm based on MIMIC-III WFDB
 
-The following workflow is show which corresponding notebook to use in each data pipeline step./n
+The following workflow is show which corresponding notebook to use in each data pipeline step.
+
+
 ![Notebook](https://github.com/supertime1/BP_PPG/blob/master/Images/Workflow%20Notebook.jpg?raw=true)
 
 More specifically:
