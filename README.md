@@ -24,7 +24,7 @@ More specifically:
 4. Prepare training data: once data is cleaned, use [**Prepare_train_val_test.ipynb**](https://github.com/supertime1/BP_PPG/blob/master/Data%20Processing/Prepare_train_val_test.ipynb) to prepare train, validation and test dataset;
 
 5. Modeling: 
-   - use [**BP_PPG_Class.ipynb**](https://github.com/supertime1/BP_PPG/blob/master/Models/BP_PPG_Class.ipynb) if LSTM without Attention is needed; 
+   - use [**BP_PPG_CNN+LSTM.ipynb**](https://github.com/supertime1/BP_PPG/blob/master/Models/BP_PPG_CNN%2BLSTM.ipynb) if LSTM without Attention is needed; 
    - use [**Attention.ipynb**](https://github.com/supertime1/BP_PPG/blob/master/Models/Attention_model.ipynb) to experiment with Attention model 
    
    ![Notebook](https://github.com/supertime1/BP_PPG/blob/master/Images/Attention.jpg?raw=true)
