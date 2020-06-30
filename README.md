@@ -25,7 +25,7 @@ More specifically:
 
 5. Modeling: 
    - use [**BP_PPG_CNN+LSTM.ipynb**](https://github.com/supertime1/BP_PPG/blob/master/Models/BP_PPG_CNN%2BLSTM.ipynb) if LSTM without Attention is needed; 
-   - use [**Attention.ipynb**](https://github.com/supertime1/BP_PPG/blob/master/Models/Attention_model.ipynb) to experiment with Attention model 
+   - use [**Attention_model.ipynb**](https://github.com/supertime1/BP_PPG/blob/master/Models/Attention_model.ipynb) to experiment with Attention model 
    
    ![Notebook](https://github.com/supertime1/BP_PPG/blob/master/Images/Attention.jpg?raw=true)
 
